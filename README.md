@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![WhatsApp Image 2024-11-29 at 08 36 03_017dae3a](https://github.com/user-attachments/assets/9f69ad06-195c-41ab-8504-6b27247e8a75)
 
 ### Output:
+![Screenshot 2024-11-29 094025](https://github.com/user-attachments/assets/9f3d7f1d-5f77-4247-af13-0fd62fdb2737)
 
 
-### Name:
-### Register Number:
+### Name:THARUN
+### Register Number:24901164
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
